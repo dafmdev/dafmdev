@@ -2,7 +2,7 @@
 
 My name is Daniel, I'm from Colombia and I'm a Data Science.
 
-* I have a [Blog](https://dafm.dev/)
+* I have a [Blog](https://dafm.notion.site/)
 
 ## Skills
 
